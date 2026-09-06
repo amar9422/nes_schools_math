@@ -1,0 +1,6 @@
+{
+  "name": "MathTug",
+  "description": "Free interactive multiplayer math games for classrooms and students, featuring Math Tug of War, Arrow Puzzle, and mental arithmetic challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
